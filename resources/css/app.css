@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.skip-links,
+.skip-links .skip-link {
+  display: none !important;
+}
+
+
+.fc-event-description {
+  font-size: 0.8em;
+  margin-top: 2px;
+  opacity: 0.85;
+}
